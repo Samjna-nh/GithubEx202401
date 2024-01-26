@@ -4,7 +4,7 @@ public class Test {
         printNameB();
         printNameC();
         printNameD();
-        printNameE(Wang Shenghui);
+        printNameE();
     }
     
     public static void printNameA() {
