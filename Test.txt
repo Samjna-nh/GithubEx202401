@@ -1,0 +1,30 @@
+public class Test {
+    public static void main(String[] args) {
+        printNameA();
+        printNameB();
+        printNameC();
+        printNameD();
+        printNameE();
+    }
+    
+    public static void printNameA() {
+    
+    }
+
+    public static void printNameB() {
+    
+    }
+
+    public static void printNameC() {
+    
+    }
+
+    public static void printNameD() {
+    
+    }
+
+    public static void printNameE() {
+    
+    }
+    
+}
