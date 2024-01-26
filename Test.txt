@@ -20,7 +20,7 @@ public class Test {
     }
 
     public static void printNameD() {
-    
+    	System.out.println("徐 路洋");
     }
 
     public static void printNameE() {
